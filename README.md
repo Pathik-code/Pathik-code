@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌌 Pathik's Universe 🚀</h1>
 
-  ![Solar System Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVhd29jNGVvM3Y5MHM5enB3ZTNoeXJqZnE2c212dHF3YnI2OTVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rytLWOErAX1F6/giphy.gif)
+  ![Solar System Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpuODgzdDI5Z3VsOGJtM2trMmJnajQ5dWE5ejhmb3Q1bjl6cXZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1zp7XeNrzpWo/giphy.gif)
 
 ```ascii
     *  .  . *    *  .  *    .  *   .   *  . * .  *
