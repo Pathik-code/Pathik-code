@@ -74,16 +74,8 @@ $ echo "In the vast data universe, every byte tells a story"
 
 ---
 
+
 <div align="right">
-
-<!-- Option 1: Using GitHub Actions timestamp -->
-<sub>Last updated: {{ timestamp }}</sub>
-
-<!-- Option 2: Using a badge -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202024-brightgreen)
-
-<!-- Option 3: Using shields.io with dynamic timestamp -->
-![Last Updated](https://img.shields.io/github/last-commit/Pathik-code/Pathik-code?label=Last%20Updated&style=flat&color=00FF00)
-
+<sub>Last updated: December 25, 2024 - 11:30 PM IST</sub>
 </div>
 
