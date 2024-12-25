@@ -1,7 +1,10 @@
 <div align="center">
   <h1>🌌 Pathik's Universe 🚀</h1>
 
-  ![Solar System Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpuODgzdDI5Z3VsOGJtM2trMmJnajQ5dWE5ejhmb3Q1bjl6cXZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1zp7XeNrzpWo/giphy.gif)
+   
+  <div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpuODgzdDI5Z3VsOGJtM2trMmJnajQ5dWE5ejhmb3Q1bjl6cXZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1zp7XeNrzpWo/giphy.gif" alt="Solar System Animation" width="1000" height="400">
+  </div>
 
 ```ascii
     *  .  . *    *  .  *    .  *   .   *  . * .  *
@@ -59,8 +62,8 @@ $ contact --reach-out
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-pathik@github.com-00FF00?style=flat&logo=gmail&logoColor=white)](mailto:pathik@github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pathik)
+[![Email](https://img.shields.io/badge/Email-pathik@github.com-00FF00?style=flat&logo=gmail&logoColor=white)](mailto:prsaurav111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathik-raw-saurav/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FF00?style=flat&logo=github&logoColor=white)](https://github.com/Pathik-code)
 
 </div>
